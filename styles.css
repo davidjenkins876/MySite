@@ -1,0 +1,88 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+}
+
+/*Center the element using 0 auto 0 auto*/
+h1 {
+  color: #66bfbf;
+  font-size: 5.625rem;
+  line-height: 2;
+  /*dynamic font sizing */
+  font-family: 'Rancho', cursive;
+  margin: 50px auto 0 auto;
+}
+
+h2 {
+  color: #66bfbf;
+  font-family: 'Poppins', sans-serif;
+  font-weight: normal;
+}
+
+h3 {
+  color: #11999e;
+}
+
+a {
+  color: #11999e;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.skill-pic-one {
+  width: 25%;
+  float: left;
+  padding-right: 30px;
+}
+
+.info-tech {
+  width: 25%;
+  float: right;
+  padding-left: 30px;
+}
+
+.android {
+  width: 25%;
+  float: left;
+  padding-right: 30px;
+}
+
+.top-container {
+  position: relative;
+  padding-top: 100px;
+  /*background-color: #c8e8ed;*/
+}
+
+.middle-container {
+  /*background-color: #ebfffb;*/
+  padding-top: 20px;
+}
+
+.bottom-container {
+  padding-top: 5px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 450px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 400px;
+  bottom: 300px;
+}
+
+.my-photo {
+  border-radius: 100%;
+}
+
+.linkedin {
+  padding-right: 6px;
+}
